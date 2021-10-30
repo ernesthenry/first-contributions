@@ -75,6 +75,7 @@
 - [Joao Portela] (https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
+  [Kato Ernest Henry](https://github.com/ernesthenry)
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Dylan Westerhold](https://github.com/dwesty17)
 - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
